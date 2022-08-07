@@ -1,7 +1,7 @@
 ### 👋 Hi there, This is Md. Rafiur Rahman.
 Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) Department at Islamic University Of Technology (IUT), Gazipur, Bangladesh.
 
-💻 Skills : C, C++, C#, Java.
+- 💻 Skills : C, C++, C#, Java.
 
 - 🌱 I’m currently learning Different programming languages. 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
