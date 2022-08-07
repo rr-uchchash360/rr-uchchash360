@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is Md. Rafiur Rahman. Currently I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) Department from Islamic University Of Technology (IUT), Gazipur, Bangladesh.
 
 <!--
 **rr-uchchash360/rr-uchchash360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rr-uchchash360)](https://github.com/anuraghazra/github-readme-stats)
