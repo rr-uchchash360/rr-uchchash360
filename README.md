@@ -1,5 +1,16 @@
-### Hi there 👋
-This is Md. Rafiur Rahman. Currently I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) Department from Islamic University Of Technology (IUT), Gazipur, Bangladesh.
+This is Md. Rafiur Rahman. Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) Department at Islamic University Of Technology (IUT), Gazipur, Bangladesh.
+
+Skills: C, C++, C#, Java.
+
+- 🌱 I’m currently learning Different programming languages. 
+- 👯 I’m looking to collaborate on anything, as I'm eager to learn anything everyday. 
+- 📫 How to reach me: rafiur20@iut-dhaka.edu 
+- 😄 Pronouns: Uchchash 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rr-uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rr.uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rr.uchchash360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rr_uchchash360)  
+
+
 
 <!--
 **rr-uchchash360/rr-uchchash360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
