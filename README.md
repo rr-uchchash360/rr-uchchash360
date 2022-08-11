@@ -5,7 +5,7 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 
 - 🌱 I’m currently learning Different programming languages. 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
-- 📫 Reach me: rafiur20@iut-dhaka.edu 
+- 📫 Reach me : rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
 
 
