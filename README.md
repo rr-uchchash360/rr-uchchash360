@@ -37,4 +37,4 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rr-uchchash360&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rr-uchchash360&locale=en&theme=react-dark&radius=5&&hide_border=true)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rr-uchchash360&locale=en&theme=react-dark&radius=5&&hide_border=true) -->
