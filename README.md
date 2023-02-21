@@ -8,7 +8,7 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 - 📫 Reach me : rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
 
-![Views](https://komarev.com/ghpvc/?username=rr-uchchash360&label=Views&color=blue&style=flat)
+![Views](https://komarev.com/ghpvc/?username=poprunner88&label=Views&color=blue&style=flat)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rr-uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rr.uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rr.uchchash360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rr_uchchash360)  
 
@@ -24,22 +24,17 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360)  
 
-![Profile views](https://gpvc.arturio.dev/rr-uchchash360)  
+![Profile views](https://gpvc.arturio.dev/rr-uchchash360)
 
 
-<!--
-**rr-uchchash360/rr-uchchash360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=poprunner88&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poprunner88&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rr-uchchash360)](https://github.com/anuraghazra/github-readme-stats)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=poprunner88&locale=en&theme=github-dark-blue&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=poprunner88&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=poprunner88&locale=en&theme=react-dark&radius=5&&hide_border=true) -->
