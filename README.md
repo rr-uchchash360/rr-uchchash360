@@ -8,9 +8,9 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 - 📫 Reach me : rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
 
-![Views](https://komarev.com/ghpvc/?username=rr-uchchash360&label=Views&color=blue&style=flat)
+<!-- ![Views](https://komarev.com/ghpvc/?username=rr-uchchash360&label=Views&color=blue&style=flat) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rr-uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rr.uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rr.uchchash360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rr_uchchash360)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rr-uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rr.uchchash360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rr.uchchash360/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rr_uchchash360)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rr-uchchash360)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -24,7 +24,7 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360)  
 
-![Profile views](https://gpvc.arturio.dev/rr-uchchash360)
+![Profile views](https://gpvc.arturio.dev/rr-uchchash360) -->
 
 
 ## Stats
