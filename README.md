@@ -1,7 +1,7 @@
 <h1 align="center">Hi, This is Md. Rafiur Rahman.</h1>
 <h2 align="center">A passionate Software Engineering student from Dhaka, Bangladesh.</h2>
 
-Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at Islamic University of Technology (IUT), Gazipur, Bangladesh.
+Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at Islamic University of Technology (IUT), Gazipur, Dhaka, Bangladesh.
 
 - 🌱 I’m currently learning Different programming languages. 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
