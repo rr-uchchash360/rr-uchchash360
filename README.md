@@ -52,6 +52,24 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rr-uchchash360&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rr-uchchash360" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/rr_uchchash360" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rr-uchchash360" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/rr.uchchash360" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/rr.uchchash360" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 <!-- ![Views](https://komarev.com/ghpvc/?username=rr-uchchash360&label=Views&color=blue&style=flat) -->
 
