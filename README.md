@@ -2,12 +2,14 @@
 <h3 align="center">A passionate Software Engineering student from Dhaka, Bangladesh.</h3>
 Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at Islamic University of Technology (IUT), Gazipur, Bangladesh.
 
-- 💻 Skills : C, C++, C#, Java, HTML, CSS.
 - 🌱 I’m currently learning Different programming languages. 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
-- 📫 Reach me : rafiur20@iut-dhaka.edu 
+- 📫 Reach me -> rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
 
+### I’m currently working on
+- [Nahl- A personal finance management mobile App](https://github.com/rr-uchchash360/Nah-l)
+- [NAR - A Laundry Management System](https://github.com/mirzaazwad/CSE4410_LaundryManagementSystem)
 
 ## Languages
 
