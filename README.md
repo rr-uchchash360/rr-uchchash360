@@ -1,5 +1,6 @@
 <h1 align="center">Hi, This is Md. Rafiur Rahman.</h1>
 <h2 align="center">A passionate Software Engineering student from Dhaka, Bangladesh.</h2>
+
 Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at Islamic University of Technology (IUT), Gazipur, Bangladesh.
 
 - 🌱 I’m currently learning Different programming languages. 
@@ -8,7 +9,7 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 - 😄 Pronouns : Uchchash 
 
 ### I’m currently working on
-- [Nahl- A personal finance management mobile App](https://github.com/rr-uchchash360/Nah-l)
+- [Nah'l - A personal finance management mobile App](https://github.com/rr-uchchash360/Nah-l)
 - [NAR - A Laundry Management System](https://github.com/mirzaazwad/CSE4410_LaundryManagementSystem)
 
 ## Languages
