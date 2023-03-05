@@ -1,4 +1,5 @@
-### 👋 Hi there, This is Md. Rafiur Rahman.
+<h1 align="center">Hi, This is Md. Rafiur Rahman.</h1>
+<h3 align="center">A passionate Software Engineering student from Dhaka, Bangladesh.</h3>
 Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at Islamic University of Technology (IUT), Gazipur, Bangladesh.
 
 - 💻 Skills : C, C++, C#, Java, HTML, CSS.
