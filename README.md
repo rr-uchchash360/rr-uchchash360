@@ -9,7 +9,7 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 - 😄 Pronouns : Uchchash 
 
 ### I’m currently working on
-- [Track My Vehicle - TMV]([https://github.com/rr-uchchash360/Nah-l](https://apps.apple.com/us/app/track-my-vehicle-tmv/id6670245303))
+- [Track My Vehicle - TMV](https://apps.apple.com/us/app/track-my-vehicle-tmv/id6670245303)
 
 ## Languages
 
