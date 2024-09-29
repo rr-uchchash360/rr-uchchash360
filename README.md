@@ -3,7 +3,7 @@
 
 Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at <a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology (IUT), Gazipur, Dhaka, Bangladesh.
 
-- 🌱 I’m currently working as an iOS mobile app developer at [Bondstein Technologies Limited](https://bondstein.com). 
+- 🌱 I’m currently working as an iOS app developer at [Bondstein Technologies Limited](https://bondstein.com). 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
 - 📫 Reach me -> rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
