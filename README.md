@@ -28,6 +28,7 @@ Currently, I'm doing undergraduation in Software Engineering (SWE) under Compute
 ## Mobile App Development
 
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/SwiftUI_logo.svg" alt="SwiftUI" height="50" /></a>
+
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="50" /></a>
 
 
