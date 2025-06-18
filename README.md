@@ -3,14 +3,16 @@
 
 Currently, I'm doing undergraduation in Software Engineering (SWE) under Computer Science and Engineering (CSE) department at <a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology (IUT), Gazipur, Dhaka, Bangladesh.
 
-- 🌱 I’m currently working as an iOS app developer at [Bondstein Technologies Limited](https://bondstein.com). 
+- 🌱 I worked as an iOS app developer at [Bondstein Technologies Limited](https://bondstein.com). 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
 - 📫 Reach me -> rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
 
-### I’m currently working on
+### I recently working on
 
 - [Track My Vehicle - TMV](https://apps.apple.com/us/app/track-my-vehicle-tmv/id6670245303)
+
+- [Track My Vehicle - Lite](https://apps.apple.com/us/app/track-my-vehicle-lite/id1663701040)
 
 ## Languages
 
