@@ -8,15 +8,18 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 - 📫 Reach me -> rafiur20@iut-dhaka.edu 
 - 😄 Pronouns : Uchchash 
 
-### I am currently working on
+### 🚀 Current Project
 
-- [No Cookie YouTube](https://github.com/rr-uchchash360/No-Cookie-YouTube)
+- **[No Cookie YouTube](https://github.com/rr-uchchash360/No-Cookie-YouTube)**  
+  A privacy-focused YouTube alternative that works without cookies.
 
-### I recently working on
+### 🧑‍💻 Recent Projects
 
-- [Track My Vehicle - TMV](https://apps.apple.com/us/app/track-my-vehicle-tmv/id6670245303)
+- **[Track My Vehicle (TMV)](https://apps.apple.com/us/app/track-my-vehicle-tmv/id6670245303)**  
+  A vehicle tracking application designed for real-time monitoring and management.
 
-- [Track My Vehicle - Lite](https://apps.apple.com/us/app/track-my-vehicle-lite/id1663701040)
+- **[Track My Vehicle – Lite](https://apps.apple.com/us/app/track-my-vehicle-lite/id1663701040)**  
+  A lightweight version of TMV, optimized for efficiency and minimal resource usage.
 
 ## Languages
 
