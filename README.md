@@ -10,6 +10,9 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 
 ### 🚀 Current Project
 
+- **[Amar Bangladesh](https://amar-bangladesh.onrender.com)**  
+  Real-time multiplayer & single-player Bangladeshi district guessing game.
+
 - **[No Cookie YouTube](https://github.com/rr-uchchash360/No-Cookie-YouTube)**  
   A privacy-focused YouTube alternative that works without cookies.
 
