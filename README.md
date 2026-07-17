@@ -75,15 +75,14 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 
 
-
+<!--
 ## Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&theme=github-dark-blue&hide_border=true)
-
-<!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rr-uchchash360&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rr-uchchash360&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&theme=github-dark-blue&hide_border=true)
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rr-uchchash360&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
