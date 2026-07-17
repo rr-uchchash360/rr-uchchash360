@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Md. Rafiur Rahman.</h1>
-<h2 align="center">A passionate Software Engineering student from Dhaka, Bangladesh 🇧🇩</h2>
+<h2 align="center">A passionate Software Engineer from Dhaka, Bangladesh 🇧🇩</h2>
 
 I recently completed my undergraduate degree in **Software Engineering (SWE)** under the **Computer Science and Engineering (CSE)** department at [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/), Gazipur, Dhaka, Bangladesh.
 
