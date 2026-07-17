@@ -78,13 +78,18 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 
 ## Stats
 
+<div align="center">
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&locale=en&theme=github-dark-blue&hide_border=true)
+</div>
+
+<!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rr-uchchash360&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rr-uchchash360&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&locale=en&theme=github-dark-blue&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rr-uchchash360&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+-->
 
 
 ## Connect with me  
