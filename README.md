@@ -79,7 +79,7 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 ## Stats
 
 <div align="center">
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&locale=en&theme=github-dark-blue&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 </div>
 
 <!--
