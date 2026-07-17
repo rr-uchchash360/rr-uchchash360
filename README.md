@@ -78,9 +78,7 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 
 ## Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rr-uchchash360&theme=github-dark-blue&hide_border=true)
 
 <!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rr-uchchash360&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
