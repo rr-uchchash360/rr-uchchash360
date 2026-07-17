@@ -5,13 +5,12 @@ I recently completed my undergraduate degree in **Software Engineering (SWE)** u
 
 - 🌱 I worked as an iOS app developer at [Bondstein Technologies Limited](https://bondstein.com). 
 - 👯 I’m looking to collaborate on anything, as I'm eager to learn new things everyday. 
-- 📫 Reach me -> rafiur20@iut-dhaka.edu 
-- 😄 Pronouns : Uchchash 
+- 📫 Reach me -> connect.rru@gmail.com 
 
-### 🚀 Current Project
+### 🚀 Current Projects
 
 - **[Amar Bangladesh](https://amar-bangladesh.onrender.com)**  
-  Real-time multiplayer & single-player Bangladeshi district guessing game.
+  A map-based game that helps you learn all 64 districts of [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh) through interactive exploration, shape recognition and fascinating local stories.
 
 - **[No Cookie YouTube](https://github.com/rr-uchchash360/No-Cookie-YouTube)**  
   A privacy-focused YouTube alternative that works without cookies.
